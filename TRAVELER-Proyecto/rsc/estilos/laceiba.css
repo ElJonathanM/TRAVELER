@@ -1,0 +1,82 @@
+/*FUENTES DE DESCARGA*/
+
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+/*ESTILO POR ETIQUETA*/
+
+nav {
+    background-color: rgb(84, 166, 207);
+}
+
+footer {
+    background-color: rgb(84, 166, 207);
+}
+
+p {
+    font-family: Arial;
+    padding-left: 30px;
+    padding-right: 10px;
+}
+
+
+/*ESTILO POR ID*/
+
+#footerdiv a {
+    text-decoration: none !important;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+
+#footerdiv ul.quick-links li {
+    padding: 3px 0;
+    -webkit-transition: .5s all ease;
+    -moz-transition: .5s all ease;
+    transition: .5s all ease;
+}
+
+
+/*ESTILO POR CLASES*/
+
+.divnav {
+    padding-inline-end: auto;
+    padding-left: 20%;
+}
+
+.playaimg {
+    max-width: 100%;
+}
+
+.carubor {
+    margin-top: 2%;
+    margin-left: 35%;
+    border: 10px;
+    border-color: black;
+}
+
+.playafondo {
+    width: 100%;
+    height: 5cm;
+}
+
+.h2bien {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+
+.carcomaya {
+    width: 50%;
+}
+
+.telah3 {
+    font-family: Arial;
+    padding-left: 30px;
+    padding-right: 10px;
+}
+
+.telaface {
+    padding-left: 5%;
+}
+
+.mapaco {
+    margin: 20px;
+}
